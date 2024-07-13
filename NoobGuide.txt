@@ -1,0 +1,17 @@
+Create folder
+    - Add desired file or add new file 
+    - Go to terminal or vs code terminal: git init 
+    - git add file.type
+    - git commit -m “message”
+    - create repo in github
+    - git remote add origin https://github.com/username/repository.git
+    - git branch -M main
+    - git push -u origin main
+
+Add files local to origin
+    - git add file
+    - git commit -m “message”
+    - git push
+
+add files origin to local -if ever there is anything altered in origin and  you want to add that to your local
+    - git pull 
