@@ -16,4 +16,9 @@ Add files local to origin
 add files origin to local -if ever there is anything altered in origin and  you want to add that to your local
     - git pull 
 
--experiment vs code part 
+VS Code - Remote Explorer
+WSL Target - folder not showing up?
+    - go to terminal
+    - use cd to go to the desired Directory
+    - code .
+the desired directory will now be shown in the WSL Target in VScode
